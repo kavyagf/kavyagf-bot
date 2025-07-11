@@ -1,0 +1,17 @@
+kavyagf-fantasy-bot/
+├── main.py
+├── requirements.txt
+├── Procfile
+├── config.py
+├── handlers/
+│   ├── start.py
+│   ├── horny.py
+│   ├── romance.py
+│   ├── dominant.py
+│   ├── kamasutra.py
+│   ├── mood.py
+│   └── fallback.py
+├── data/
+│   ├── memory.json
+│   └── horny_replies.json
+└── README.md
